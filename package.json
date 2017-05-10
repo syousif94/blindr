@@ -1,0 +1,13 @@
+{
+  "name": "blindr",
+  "version": "1.0.0",
+  "description": "open blinds with raspi",
+  "main": "index.js",
+  "repository": "syousif94/blindr-pi",
+  "author": "Sammy Yousif <syousif@utexas.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^4.1.4",
+    "python-shell": "^0.4.0"
+  }
+}
